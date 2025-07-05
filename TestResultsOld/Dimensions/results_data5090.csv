@@ -1,0 +1,2 @@
+Embedding-Modell,Ordner,Top-1 (Prozent),Top-3 (Prozent),AvgSimilarity
+intfloat/e5-large-v2,data500,73.9%,2.2%,0.9641

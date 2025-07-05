@@ -1,0 +1,2 @@
+Embedding-Modell,Ordner,Top-1 (Prozent),Top-3 (Prozent)
+intfloat/e5-large-v2,data4000,50.0%,39.1%

@@ -1,0 +1,4 @@
+embedding_model,avg_similarity,top1_ratio,top3_ratio,Top-1 (Prozent),Top-3 (Prozent)
+intfloat/multilingual-e5-large,0.0,0.0,0.0,0.0%,0.0%
+intfloat/multilingual-e5-large-instruct,0.0,0.0,0.0,0.0%,0.0%
+WhereIsAI/UAE-Large-V1,0.0,0.0,0.0,0.0%,0.0%

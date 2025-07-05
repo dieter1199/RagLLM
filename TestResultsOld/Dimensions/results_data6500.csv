@@ -1,0 +1,2 @@
+Embedding-Modell,Ordner,Top-1 (Prozent),Top-3 (Prozent),Top-1+Top-3 (Prozent),AvgSimilarity
+Shuu12121/CodeSearch-ModernBERT-Crow-Plus,data6500,73.9%,13.0%,87.0%,0.6403

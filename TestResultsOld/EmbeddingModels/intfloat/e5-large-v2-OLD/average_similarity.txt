@@ -1,0 +1,3 @@
+AvgSimilarity: 0.8832
+Top-1: 26/46
+Top-3: 28/46

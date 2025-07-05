@@ -1,0 +1,3 @@
+AverageSim: 0.9043
+Top1: 37/47
+Top3: 43/47

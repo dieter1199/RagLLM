@@ -1,0 +1,2 @@
+embedding_model,avg_similarity,top1_ratio,top3_ratio,Top-1 (Prozent),Top-3 (Prozent)
+intfloat/e5-large-v2,0.8832292905846086,0.5652173913043478,0.6086956521739131,56.5%,60.9%
